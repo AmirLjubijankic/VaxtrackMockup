@@ -8,3 +8,4 @@ Slika 6 - Klikom na logo vakcine, korisnik može pronaći korisne informacije o 
 Slika 7 - Ako kliknemo na ikonu "Statistika", otvorit će nam se današnji podaci zaraženih u našem gradu, kao i sedmični podaci grada i regiona\
 Slika 8 - Sedmični podaci se također mogu listati po sedmicama.\
 Slika 9 - Klikom na ikonu "Novosti", korisnik može pronaći najnovije i najbitnije novosti o pandemiji i vakcinaciji u regionu.\
+Link za isprobavanje aplikacije: https://www.figma.com/proto/JLIZvKN3PW1l2WUq5aLMyj/Mockup?node-id=3%3A4&scaling=scale-down&page-id=0%3A1
